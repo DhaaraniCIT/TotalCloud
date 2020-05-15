@@ -73,7 +73,7 @@ $('#btn-remove').click(function(){
     $("#select-from").prepend('<a href="#" class="list-group-item" id="2"><img src="img/Ellipse 1-1.png" alt="">Andreea Lucas</a>');
 
   }
-  else if (str == "Jonathann ") {
+  else if (str == "Jonathann") {
       $("a").remove("#3");
     $("#select-from").prepend('<a href="#" class="list-group-item" id="3"><img src="img/Ellipse 1-2.png" alt="">Jonathann Carpenter</a>');
 
